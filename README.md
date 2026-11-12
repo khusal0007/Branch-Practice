@@ -1,1 +1,2 @@
-# Branch-Practice
+This is my first branch.
+Learning GitHub branches.
